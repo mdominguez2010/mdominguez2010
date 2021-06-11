@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a data scientist with 8 years professional experience in banking and finance. Currently open to work. 
+I'm a data scientist with 8 years professional experience in banking and finance. Currently open to work in a position finding data-driven solutions in a FinTech environment.
 
 Here's how you can reach me 📫 
 - [LinkedIn](https://www.linkedin.com/in/marcosdominguez2018/)
