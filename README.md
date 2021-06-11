@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi there 👋
+
+I'm a data scientist with 8 years professional experience in banking and finance. Currently open to work. 
+
+Here's how you can reach me 📫 
+- [LinkedIn](https://www.linkedin.com/in/marcosdominguez2018/)
+- [email me](mailto:md.ghsd@gmail.com)
+- [Twitter](https://twitter.com/mdcruz2010)
 
 <!--
 **mdominguez2010/mdominguez2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
