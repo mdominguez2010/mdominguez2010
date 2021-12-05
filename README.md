@@ -2,7 +2,7 @@
 
 I'm a data scientist with 8 years professional experience in banking and finance. Currently open to work in a data-driven position finding data-driven solutions in a FinTech environment.
 
-I'm always hangry for more knowledge, especially anything data science, machine learning, finance, or any combination of the three.
+I'm always hangry for more knowledge, especially anything statistics, data science, machine learning, finance, or any combination of the three.
 
 Here's how you can reach me 📫 
 - [LinkedIn](https://www.linkedin.com/in/marcosdominguez2018/)
